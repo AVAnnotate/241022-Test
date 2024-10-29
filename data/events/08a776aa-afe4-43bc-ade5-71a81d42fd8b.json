@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "a994937e-9b21-450a-99c7-a9bd2cf9f459": {
+      "label": "Bidart",
+      "is_offline": false,
+      "file_url": "https://library.harvard.edu/sites/default/files/static/poetry/audio/listeningbooth/bishop_1979/FrankBidart2.mp3",
+      "duration": 358
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "Multi-AV Audio Event",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Two versions of \"The Moose\""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-29T16:34:18.054Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-10-29T16:34:18.054Z",
+  "updated_by": "SteveMarvin"
+}

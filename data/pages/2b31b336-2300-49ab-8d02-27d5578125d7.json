@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2024-10-29T16:34:18.329Z",
+  "created_by": "SteveMarvin",
+  "title": "Multi-AV Video Event",
+  "slug": "multi-av-video-event-2",
+  "updated_at": "2024-10-29T16:34:18.329Z",
+  "updated_by": "SteveMarvin",
+  "parent": "837ac73f-dc2c-4a02-991c-8026e34229fa",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "2d8aa4c6-ef82-4a96-b83e-fb89cacb182b"
+  }
+}
