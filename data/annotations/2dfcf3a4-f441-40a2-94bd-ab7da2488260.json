@@ -23743,6 +23743,372 @@
       ],
       "tags": [],
       "uuid": "00ff00db-d0b9-4360-9490-449665d54908"
+    },
+    {
+      "start_time": 6,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction - Michael O'Driscoll"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c1615aa0-a46c-48c7-9dc8-040728891d22"
+    },
+    {
+      "start_time": 210,
+      "end_time": 457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Host, Dr. Uche Peter Umezurike"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "73ce7263-d43d-4039-820b-caba5df13513"
+    },
+    {
+      "start_time": 210,
+      "end_time": 457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome, introduction and brief bios of the guest writers."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cebf8062-1186-4f46-8562-419121795ab5"
+    },
+    {
+      "start_time": 457,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titilope Sonuga reads the poem Interrogators of Orchids by Maggie Smith"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d4631e57-80d1-479c-ac09-69a4ce07ff9b"
+    },
+    {
+      "start_time": 623,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ifeoma Chinwuba reads the poem The Solitary Reaper by William Wordsworth"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "89249998-19b4-4c0d-adbf-8a378ebb82e5"
+    },
+    {
+      "start_time": 623,
+      "end_time": 908,
+      "annotation": [
+        {
+          "text": "William Wordsworth"
+        },
+        {
+          "text": "The Solitary Reaper"
+        },
+        {
+          "text": "Lines Written a Few Miles above Tintern Abbey"
+        },
+        {
+          "text": "Ode: Intimations of Immorality from Recollections of Early Childhood"
+        }
+      ],
+      "tags": [],
+      "uuid": "1c9e2c0a-52a9-4afa-a1c2-49a795045ff9"
+    },
+    {
+      "start_time": 908,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titilope Sonuga on literary influences"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c98c1763-0713-4290-b583-4ce39add766d"
+    },
+    {
+      "start_time": 908,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "text": "Maggie Smith"
+        },
+        {
+          "text": "Mabel Segun"
+        },
+        {
+          "text": "Buche Emecheta"
+        },
+        {
+          "text": "Toni Morrison"
+        },
+        {
+          "text": "Sonia Sanchez"
+        },
+        {
+          "text": "Maya Angelou"
+        }
+      ],
+      "tags": [],
+      "uuid": "36c90108-8691-4043-938b-85b8e1652ac3"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ifeoma Chinwuba on literary influences"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e7e2f5b6-b58c-4155-a340-04cf54d27c3c"
+    },
+    {
+      "start_time": 1549,
+      "end_time": 1830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ifeoma Chinwuba reads an excerpt from African Romance"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "09f38ab1-3963-48eb-9ead-ec2c240703ee"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 2339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titilope Sonuga reads the poem Missing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a4853c93-dd75-46d6-9a3f-47a4ddb6eae0"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 2339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titilope Sonuga reads the poem Missing from the collection This Is How We Disappear"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ed6e1d70-01d2-470e-a5e3-866e0e18d4de"
+    },
+    {
+      "start_time": 2339,
+      "end_time": 2500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titilope Sonuga on how literature can incite conversation"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69840efe-6dfc-4422-b2f0-c2ad3c99e558"
+    },
+    {
+      "start_time": 2339,
+      "end_time": 2500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Question from the Host: How can we get literature to incite more conversation and awareness about the commodification of women?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9692f4a-6274-4d08-83fc-a0f6b4cac536"
+    },
+    {
+      "start_time": 2500,
+      "end_time": 2890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ifeoma Chinwuba on how literature can incite conversation"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6edd5bc6-8636-4ea8-a523-c388e75e2689"
+    },
+    {
+      "start_time": 2500,
+      "end_time": 2890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Question from the Host: How can we get literature to incite more conversation and awareness about the commodification of women?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b0fddd52-3558-44ef-931e-b6b55989fb7d"
+    },
+    {
+      "start_time": 2890,
+      "end_time": 3056,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titilope Sonuga reads an untitled poem"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bdd32a75-eca8-4b32-9edd-68660b77722d"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 3388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ifeoma Chinwuba reads an excerpt from Waiting for Maria"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7dfe05c0-e287-477a-a7f4-9124fb95653b"
+    },
+    {
+      "start_time": 3388,
+      "end_time": 5131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Questions from event registrants"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c70a8cc5-cd7a-41ad-8bba-702f739bf666"
+    },
+    {
+      "start_time": 3388,
+      "end_time": 5131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Host, Dr. Uche Peter Umezurike, invites questions from event registrants."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c8747d01-031f-4cc5-8f32-033a4d1176b0"
+    },
+    {
+      "start_time": 5131,
+      "end_time": 5280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2b3ea180-45d6-4956-ad1f-1eb54acef59a"
+    },
+    {
+      "start_time": 5131,
+      "end_time": 5280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Closing:  Host, Uchechukwu Peter Umezurike, thanks the guests and Michael O'Driscoll makes closing remarks."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cd597246-ff4a-476c-8db9-225b8c673b40"
     }
   ],
   "set": "Default",
