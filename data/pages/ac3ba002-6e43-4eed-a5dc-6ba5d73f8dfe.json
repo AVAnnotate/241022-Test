@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "08a776aa-afe4-43bc-ade5-71a81d42fd8b"
+      },
+      "event2": {
+        "uuid": "14f436f8-3f58-4bcf-b80f-3e8ff870527e"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "08a776aa-afe4-43bc-ade5-71a81d42fd8b"
+      },
+      "event2": {
+        "uuid": "bb8f0548-ce11-4fb2-befb-adbe27f459e1"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "compare",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "compare",
+  "created_at": "2024-11-14T16:58:55.395Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2024-11-14T16:58:55.395Z",
+  "updated_by": "SteveMarvin"
+}
