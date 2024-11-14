@@ -13,7 +13,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        }
+      ],
       "uuid": "1aebccec-a153-402d-91b1-831c9b5fa394"
     },
     {
