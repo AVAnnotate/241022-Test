@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "asdfasdf"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "\"This is in quotes\""
+        }
+      ],
+      "uuid": "0090a517-0b99-44ff-b509-4be686ffb97b"
+    }
+  ],
   "set": "Default",
   "event_id": "95404f1a-8ebb-4928-ac07-f962a408a500",
   "source_id": "f013ce0d-a646-4401-8b6e-3097d152f232"
