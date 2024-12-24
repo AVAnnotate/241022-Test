@@ -1,10 +1,37 @@
 {
   "content": [
     {
-      "type": "paragraph",
+      "type": "numbered-list",
       "children": [
         {
-          "text": "Test test "
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Test test "
+            }
+          ],
+          "align": "left"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Test test test"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Test test"
+            }
+          ]
         }
       ]
     },
@@ -12,7 +39,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Test"
+        }
+      ],
+      "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "This is a test of "
+        },
+        {
+          "text": "italics",
+          "italic": true
+        },
+        {
+          "text": ", and commas."
         }
       ]
     },
@@ -37,6 +81,51 @@
         {
           "text": ""
         }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "size": "medium",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "size": "thumbnail",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
       ]
     }
   ],
@@ -49,6 +138,6 @@
   "slug": "3-test",
   "created_at": "2024-12-24T15:32:18.972Z",
   "created_by": "SteveMarvin",
-  "updated_at": "2024-12-24T15:32:18.972Z",
+  "updated_at": "2024-12-24T15:53:03.399Z",
   "updated_by": "SteveMarvin"
 }
