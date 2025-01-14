@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 66,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "segment"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Punctuation",
+          "category": "Notes"
+        },
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        }
+      ],
+      "uuid": "2013060d-d752-4a28-a6eb-ae724bb41ece"
+    }
+  ],
   "set": "Default",
   "event_id": "7fbf3ca5-a684-41d6-8316-da0be8c472de",
   "source_id": "98510586-8f08-4beb-be5d-0e82e955e2c8"
