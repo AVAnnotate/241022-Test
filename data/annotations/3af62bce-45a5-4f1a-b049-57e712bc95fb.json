@@ -8,7 +8,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "asdfasdf"
+              "text": "asdfasdf "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "fasdfadffsefg",
+              "highlight": "#efa3a3"
+            }
+          ]
+        },
+        {
+          "type": "block-quote",
+          "children": [
+            {
+              "text": "gflkasjehf ",
+              "bold": true,
+              "strikethrough": true,
+              "underline": true
             }
           ]
         }
